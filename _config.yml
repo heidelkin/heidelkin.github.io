@@ -11,14 +11,14 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Tsz Kin Lam"
-resume_title:                   "Research Associate"
+resume_title:                   "AI Researcher in NLP and Speech"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "kintz0911@gmail.com"
 
 resume_header_intro: "
   <p>
-    I am a Researcher within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> institutes of the School of Informatics at the University of Edinburgh.  
+    Hello! I am Tsz Kin, a researcher at <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a>, the University of Edinburgh.  
   </p>"
 
 # Decide which sections to use
