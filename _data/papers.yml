@@ -34,6 +34,7 @@
     title: "Analyzing the Use of Influence Functions for Instance-Specific Data Filtering in Neural Machine Translation"
     venue: "WMT 2022" 
 - year: 2021
+  papers:
   - authors: "<strong>T.K. Lam</strong>, M. Ohta, S. Schamoni, S. Riezler"
     title: "On-the-Fly Aligned Data Augmentation for Sequence-to-Sequence ASR"
     venue: "Interspeech 2021"
@@ -41,6 +42,7 @@
     title: "Cascaded Models With Cyclic Feedback For Direct Speech Translation"
     venue: "ICASSP 2021"
 - year: 2019
+  papers:
   - authors: "<strong>T.K. Lam</strong>, S. Schamoni, S. Riezler"
     title: "Interactive-predictive neural machine translation through reinforcement and imitation"
     venue: "MT Summit 2019" 
