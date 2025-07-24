@@ -10,47 +10,47 @@
   papers:
   - authors: "IS Ahmad et. al"
     title: "Findings of the IWSLT 2024 Evaluation Campaign"
-    venue: "IWSLT 2024"
+    venue: <em>IWSLT 2024</em>
   - authors: "<strong>T.K. Lam</strong>, A. Birch, B. Haddow"
     title: "Compact Speech Translation Models via Discrete Speech Units Pretraining"
-    venue: "IWSLT 2024"
+    venue: <em>IWSLT 2024</em>
   - authors: "G. Zhou, <strong>T.K. Lam</strong>, A. Birch, B. Haddow"
     title: "Prosody in Cascade and Direct Speech-to-Text Translation: a case study on Korean Wh-Phrases"
-    venue: "EACL 2024 (Findings)"
+    venue: <em>EACL 2024 (Findings)</em>
   - authors: "V. Zouhar, P. Chen, <strong>T.K. Lam</strong>, N. Moghe, B. Haddow"
     title: "Pitalls and outlooks in using COMET"
-    venue: "WMT 2024"
+    venue: <em>WMT 2024</em>
 - year: 2023
   papers:
   - authors: "<strong>T.K. Lam</strong>, S. Schamoni, S. Riezler"
     title: "Make More of Your Data: Minimal Effort Data Augmentation for Automatic Speech Recognition and Translation"
-    venue: "ICASSP 2023"
+    venue: <em>ICASSP 2023</em>
 - year: 2022
   papers:
   - authors: "<strong>T.K. Lam</strong>, S. Schamoni, S. Riezler"
     title: "Sample, Translate, Recombine: Leveraging Audio Alignments for Data Augmentation in End-to-end Speech Translation"
-    venue: "ACL 2022"
+    venue: <em>ACL 2022</em>
   - authors: "<strong>T.K. Lam</strong>, S. Schamoni, S. Riezler"
     title: "Analyzing the Use of Influence Functions for Instance-Specific Data Filtering in Neural Machine Translation"
-    venue: "WMT 2022" 
+    venue: <em>WMT 2022</em>
 - year: 2021
   papers:
   - authors: "<strong>T.K. Lam</strong>, M. Ohta, S. Schamoni, S. Riezler"
     title: "On-the-Fly Aligned Data Augmentation for Sequence-to-Sequence ASR"
-    venue: "Interspeech 2021"
+    venue: <em>Interspeech 2021</em>
   - authors: "<strong>T.K. Lam</strong>, S. Schamoni, S. Riezler"
     title: "Cascaded Models With Cyclic Feedback For Direct Speech Translation"
-    venue: "ICASSP 2021"
+    venue: <em>ICASSP 2021</em>
 - year: 2019
   papers:
   - authors: "<strong>T.K. Lam</strong>, S. Schamoni, S. Riezler"
     title: "Interactive-predictive neural machine translation through reinforcement and imitation"
-    venue: "MT Summit 2019" 
+    venue: <em>MT Summit 2019</em>
   - authors: "<strong>T.K. Lam</strong>, JGC de Souza, N. Ueffing"
     title: "MT Quality Estimation for e-Commerce: Automatically Assessing the Quality of Machine Translation for Item Titles"
-    venue: "Workshop at MT Summit 2019"
+    venue: <em>Workshop at MT Summit 2019</em>
 - year: 2018
   papers:
   - authors: "<strong>T.K. Lam</strong>, J. Kreutzer, S. Riezler"
     title: "A reinforcement learning approach to interactive-predictive neural machine translation"
-    venue: "EAMT 2018"
+    venue: <em>EAMT 2018</em>
