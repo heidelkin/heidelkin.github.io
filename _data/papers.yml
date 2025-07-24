@@ -49,6 +49,8 @@
   - authors: "<strong>T.K. Lam</strong>, JGC de Souza, N. Ueffing"
     title: "MT Quality Estimation for e-Commerce: Automatically Assessing the Quality of Machine Translation for Item Titles"
     venue: "Workshop at MT Summit 2019"
+- year: 2018
+  papers:
   - authors: "<strong>T.K. Lam</strong>, J. Kreutzer, S. Riezler"
     title: "A reinforcement learning approach to interactive-predictive neural machine translation"
     venue: "EAMT 2018"
