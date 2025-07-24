@@ -43,6 +43,7 @@ resume_social_links:
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://www.ondrejklejch.cz"
   # resume_medium_url:            "https://medium.com/@jglovier"
+  resume_googlescholar_url:     "https://scholar.google.com/citations?user=ii8kohwAAAAJ&hl=en"
 resume_print_social_links:      true
 
 # Design settings
