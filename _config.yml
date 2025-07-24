@@ -10,15 +10,15 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Ondrej Klejch"
-resume_title:                   "Senior Researcher"
+resume_name:                    "Tsz Kin Lam"
+resume_title:                   "Research Associate"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "ondrej.klejch@gmail.com"
+resume_contact_email:           "kintz0911@gmail.com"
 
 resume_header_intro: "
   <p>
-    I am a Senior Researcher within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> and <a href='http://www.cstr.ed.ac.uk/'>CSTR</a> institutes of the School of Informatics at the University of Edinburgh.  I have been working on building speech-to-text systems with limited training data and supervision within several large projects funded by EPSRC, H2020, and IARPA. I am currently working with <a href='http://homepages.inf.ed.ac.uk/pbell1/'>Peter Bell</a> on zero-resource cross-lingual transfer for low-resource languages within the <a href='https://unmute.tech'>EPSRC UnMute</a> project.
+    I am a Researcher within the <a href='http://www.ilcc.inf.ed.ac.uk'>ILCC</a> institutes of the School of Informatics at the University of Edinburgh.  
   </p>"
 
 # Decide which sections to use
@@ -35,13 +35,13 @@ resume_section_projects:        true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/ondrejklejch"
-  resume_twitter_url:           "http://twitter.com/ondrejklejch"
+  # resume_github_url:            "https://github.com/ondrejklejch"
+  # resume_twitter_url:           "http://twitter.com/ondrejklejch"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/ondrejklejch"
+  resume_linkedin_url:          "https://www.linkedin.com/in/tklam"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://www.ondrejklejch.cz"
+  # resume_website_url:           "http://www.ondrejklejch.cz"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
