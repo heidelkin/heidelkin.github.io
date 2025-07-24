@@ -5,7 +5,7 @@
     venue: "Under Review"
   - authors: "<strong>T.K. Lam</strong>, M. Gaido, S. Papi, L. Bentivogli, B. Haddow"
     title: "Prepending or Cross-Attention for Speech-to-Text? An Empirical Comparison"
-    venue: "NAACL 2025"  
+    venue: <em>NAACL 2025</em>  
 - year: 2024
   papers:
   - authors: "IS Ahmad et. al"
