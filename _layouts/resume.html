@@ -84,6 +84,23 @@
       <!-- end Professional Services -->
       {% endif %}
 
+      {% if site.resume_section_teaching %}
+      <!-- begin Teaching -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Teaching and Coaching Experience</h2>
+        </header>
+
+        {% for teaching in site.data.teaching %}
+          <p class="resume-item-copy" itemprop="role">
+            <strong itermprop="role">{{ teaching.company }}</strong>: {{ teaching.courses }}
+          </p>
+        {% endfor %}
+      </section>
+      <!-- end Professional Services -->
+      {% endif %}
+
 
       {% if site.resume_section_education %}
       <!-- begin Education -->
