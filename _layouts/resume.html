@@ -59,10 +59,8 @@
         </header>
 
         {% for grant in site.data.grant %}
-          <h3 class="resume-item-copy" itemprop="name">{{ grant.name }} &bull; {{ job.duration }}</h3>
+          <h3 class="resume-item-copy" itemprop="name">{{ grant.name }} &bull; {{ grant.duration }}</h3>
           <p class="resume-item-copy">{{ grant.summary }}</p>
-          # <p class="resume-item-copy" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</p>
-          # <p class="resume-item-copy">{{ job.summary }}</p>
         {% endfor %}
       </section>
       <!-- end Experience -->
