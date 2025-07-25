@@ -21,7 +21,8 @@ resume_header_intro: "
     Hello! I am a researcher and a GAIL Fellow at the University of Edinburgh, where I work closely with <a href='https://sites.google.com/view/alexandra-birch/home' style='color: black'>Alexandra Birch</a>, <a href='https://homepages.inf.ed.ac.uk/bhaddow/' style='color: black'>Barry Haddow</a>, members from the machine translation team and CSTR. I earned my BSc in Physics from HKUST, Master and PhD at Heidelberg University in Germany, where I was fortunate to be supervised by <a href='https://www.cl.uni-heidelberg.de/statnlpgroup/members/riezler/' style='color: black'>Prof. Stefan Riezler</a>.<br>
 
     <br>My current research interest is around speech LLM, post-training and human-agent collaboration. 
-  </p>"
+  </p>
+  <p style="text-align: center;">I am now in the job market. Please get in touch if I fit well in your team!</p>"
 
 # Decide which sections to use
 # comment out to hide
