@@ -1,5 +1,8 @@
 - year: 2025
   papers:
+  - authors: Agostinelli et. al 
+    title: "Findings of the IWSLT 2025 Evaluation Campaign" 
+    venue: <em>IWSLT 2025</em>
   - authors: "K. Ambilduke, B. Peters, S. Sannigrahi, A. Keshiwani, <strong>T.K. Lam</strong>, B. Martins, M.Z. Boito, A. FT Martins"
     title: "From tower to spire: Adding the speech modality to a text-only llm"
     venue: "Under Review"
