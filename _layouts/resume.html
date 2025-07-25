@@ -94,7 +94,10 @@
 
         {% for teaching in site.data.teaching %}
           <p class="resume-item-copy" itemprop="role">
-            <strong itermprop="role">{{ teaching.company }}</strong>: {{ teaching.courses }}
+            <strong itermprop="role">{{ teaching.company }}</strong>: 
+	      {% for course in teaching.courses %}
+	        <li>{{ course }}</li>
+	      {% endfor %}
           </p>
         {% endfor %}
       </section>
