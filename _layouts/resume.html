@@ -75,7 +75,8 @@
         </header>
 
         {% for service in site.data.services %}
-          <h3 class="resume-item-copy" itemprop="name">{{ service.name }}</h3>
+          <h3 class="resume-item-copy" itemprop="role">{{ service.role }}</h3>
+          <p class="resume-item-copy">{{ service.name }}</p>
         {% endfor %}
       </section>
       <!-- end Professional Services -->
