@@ -1,6 +1,9 @@
 # Professional Service
-- name: "Organizer: IWSLT (Offline Track) 2024-2025"
+- role: "Organizer"
+  name: "IWSLT (Offline Track) 2024-2025"
 
-- name: "Area Chair: ARR"
+- role: "Area Chair"
+  name: "ACL Rolling Review (ARR)"
 
-- name: "Reviewer: ARR (*CL conferences), ICASSP, INTERSPEECH, TACL, TALLIP, TASLP"
+- role: "Reviewer"
+  name: "ARR, ICASSP, INTERSPEECH, TACL, TALLIP, TASLP"
