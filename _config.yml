@@ -17,7 +17,7 @@ resume_title:                   "AI Researcher in NLP and Speech"
 resume_contact_email:           "kintz0911@gmail.com"
 
 resume_header_intro: "
-  <p>
+  <p style="text-align: justify;">
     Hello! I am a researcher and a GAIL Fellow at the University of Edinburgh, where I work closely with <a href='https://sites.google.com/view/alexandra-birch/home' style='color: black'>Alexandra Birch</a>, <a href='https://homepages.inf.ed.ac.uk/bhaddow/' style='color: black'>Barry Haddow</a>, members from the machine translation team and CSTR. I earned my BSc in Physics from HKUST, Master and PhD at Heidelberg University in Germany, where I was fortunate to be supervised by <a href='https://www.cl.uni-heidelberg.de/statnlpgroup/members/riezler/' style='color: black'>Prof. Stefan Riezler</a>.<br>
 
     <br>I am broadly interested in machine learning for sequence modelling, with a particular focus on NLP and Speech. My current research focus is around speech LLM, post-training and human-agent collaboration. An intermediate goal is to enhance voice interaction between humans and agents. If you are interested this areas, feel free to connect and chat!
