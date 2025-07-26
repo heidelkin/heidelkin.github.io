@@ -1,7 +1,7 @@
 # Teaching
 - company: University of Edinburgh
-  courses: Guest lecture for "NLU, Generation and Machine Translation (2024)" 
-  # summary:
+  courses: 
+    - Guest lecture for "NLU, Generation and Machine Translation (2024)" 
 
 - company: Heidelberg University, Germany (2019 - 2022)
   courses: 
