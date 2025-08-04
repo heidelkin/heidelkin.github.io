@@ -26,6 +26,9 @@
   - authors: "V. Zouhar, P. Chen, <strong>T.K. Lam</strong>, N. Moghe, B. Haddow"
     title: "Pitalls and outlooks in using COMET"
     venue: <em>WMT 2024</em>
+  - authors: "<strong>T.K. Lam</strong>"
+    title: "Improving Neural Sequence-to-Sequence Learning via Data Enhancement"
+    venue: <em>PhD Thesis</em>
 - year: 2023
   papers:
   - authors: "<strong>T.K. Lam</strong>, S. Schamoni, S. Riezler"
