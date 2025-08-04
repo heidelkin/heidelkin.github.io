@@ -1,5 +1,8 @@
 - year: 2025
   papers:
+  - authors: "G. Zhou, <strong>T.K. Lam</strong>, A. Birch, B. Haddow"
+    title: "The Prosody of Emojis"
+    venue: Under Review
   - authors: Agostinelli et. al 
     title: "Findings of the IWSLT 2025 Evaluation Campaign" 
     venue: <em>IWSLT 2025</em>
