@@ -8,7 +8,7 @@
     venue: <em>IWSLT 2025</em>
   - authors: "K. Ambilduke, B. Peters, S. Sannigrahi, A. Keshiwani, <strong>T.K. Lam</strong>, B. Martins, M.Z. Boito, A. FT Martins"
     title: "From tower to spire: Adding the speech modality to a text-only llm"
-    venue: "Under Review"
+    venue: <em>EMNLP 2025 (Findings)</em>
   - authors: "<strong>T.K. Lam</strong>, M. Gaido, S. Papi, L. Bentivogli, B. Haddow"
     title: "Prepending or Cross-Attention for Speech-to-Text? An Empirical Comparison"
     venue: <em>NAACL 2025</em>  
