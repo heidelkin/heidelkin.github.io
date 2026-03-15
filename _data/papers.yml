@@ -1,3 +1,9 @@
+- year : 2026
+  papers:
+  - authors: "Z. Maike, O. Kljech, N. Sanders, J. Niehuesm, A. Birch, <strong>T.K. Lam</strong>"
+    title: "F-Actor: Controllable Conversational Behaviour in Full-Duplex Models" 
+    venue: Under Review
+
 - year: 2025
   papers:
   - authors: "G. Zhou, <strong>T.K. Lam</strong>, A. Birch, B. Haddow"
