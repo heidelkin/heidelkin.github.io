@@ -2,13 +2,13 @@
   papers:
   - authors: "Z. Maike, O. Kljech, N. Sanders, J. Niehuesm, A. Birch, <strong>T.K. Lam</strong>"
     title: "F-Actor: Controllable Conversational Behaviour in Full-Duplex Models" 
-    venue: Under Review
+    venue: <em>ACL 2026 (FIndings)</em>
+  - authors: "G. Zhou, <strong>T.K. Lam</strong>, A. Birch, B. Haddow"
+    title: "The Prosody of Emojis"
+    venue: <em>ACL 2026</em>
 
 - year: 2025
   papers:
-  - authors: "G. Zhou, <strong>T.K. Lam</strong>, A. Birch, B. Haddow"
-    title: "The Prosody of Emojis"
-    venue: Under Review
   - authors: Agostinelli et. al 
     title: "Findings of the IWSLT 2025 Evaluation Campaign" 
     venue: <em>IWSLT 2025</em>
