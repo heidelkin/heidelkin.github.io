@@ -2,8 +2,8 @@
 - role: "Organizer"
   name: "IWSLT (Offline Track) 2024-2025"
 
-- role: "Area Chair"
-  name: "ACL Rolling Review (ARR)"
+#- role: "Area Chair"
+#  name: "ACL Rolling Review (ARR)"
 
 - role: "Reviewer"
-  name: "ARR, ICASSP, INTERSPEECH, Computational Linguistics (CL), TACL, TALLIP, TASLP"
+  name: "ARR, ICASSP, INTERSPEECH, Computational Linguistics (CL), NeurIPS, SLT, TACL, TALLIP, TASLP"
